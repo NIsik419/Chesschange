@@ -32,8 +32,7 @@
 
 - 위에서 구한 파라미터를 기반으로 왜곡 보정 수행
 - 적용 대상:
-  - `test.jpg` → `undistorted.jpg`
-  - `chessboard.avi` → `undistorted_output.avi`
+  - `chess.mp4` → `undistorted_output.avi`
 
 ### 🔍 보정 전/후 비교 이미지
 
